@@ -21,6 +21,4 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xxholly32&show_icons=true&theme=onedark" />
 
-### Visitors Count 👀
-
-![gh_visitors](https://profile-counter.glitch.me/xxholly32/count.svg)
+[![Visits Badge](https://badges.pufler.dev/visits/xxholly32/xxholly32)](https://github.com/xxholly32/xxholly32)
