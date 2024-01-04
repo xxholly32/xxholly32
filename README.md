@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🤔 learn and explore...
 
-- Read more about [me](https://xxholly32.github.io/Blog/)
+- Read more about [me](https://xiangxiao-blog.vercel.app/)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xxholly32&show_icons=true&theme=onedark" />
 
